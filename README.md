@@ -5,4 +5,4 @@
 
 **Required Packages:**
 * django-cors-headers.
-* 
+* djangorestframework.
