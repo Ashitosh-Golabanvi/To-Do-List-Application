@@ -6,4 +6,4 @@
 **Required Packages:**
 * django-cors-headers.
 * djangorestframework.
-* dj-database-url.
+* dj-database-urls.
