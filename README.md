@@ -8,3 +8,4 @@
 * djangorestframework.
 * dj-database-urls.
 * mysqlclient.
+* Axios.
